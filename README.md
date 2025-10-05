@@ -8,7 +8,7 @@ A collection of frontend machine-coding projects built with React.js. These smal
 - Built with React (Vite + React) for fast iteration
 - Practical problems that improve component design, state management, and UI/UX thinking
 
-## Projects
+## ✨ Projects
 
 Below is a table of projects included in this repository. "Project" links to the project folder; "Demo" links to a live demo when available (or notes how to run locally).
 
@@ -34,13 +34,13 @@ This repository collects short, focused machine-coding tasks intended for:
 - Improving problem decomposition and logical reasoning
 - Building confidence with small, testable UIs
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 - React.js (with Vite)
 - JavaScript (ES6+)
 - HTML & CSS
 
-## Project structure (typical)
+## 📦 Project structure (typical)
 
 ```
 machine-coding/
@@ -54,7 +54,7 @@ machine-coding/
 
 Each project is self-contained and can have its own tooling and scripts.
 
-## Contribution & Usage
+## 🙏 Contribution & Usage
 
 - Feel free to fork and use these exercises for learning or interviews
 - Add your own solutions or improvements as separate folders or branches
@@ -64,7 +64,7 @@ Each project is self-contained and can have its own tooling and scripts.
 
 - The live demo link above is optional and may change. Check each project's folder for local instructions.
 
-## Developer
+## 👨‍💻 Developer
 
 - bMonad (Shivansh Singh)
 
