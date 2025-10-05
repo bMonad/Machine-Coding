@@ -1,4 +1,6 @@
-# Machine-Coding Projects
+# UIQuests
+
+### - Learn Frontent through Quests
 
 A collection of frontend machine-coding projects built with React.js. These small apps and challenges are focused on strengthening logical thinking, problem solving, and practical React skills through hands-on exercises.
 
