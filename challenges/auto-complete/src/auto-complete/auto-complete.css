@@ -1,0 +1,13 @@
+.auto-complete {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  position: relative;
+}
+
+.auto-complete .input-box {
+  display: flex;
+  gap: 8px;
+  align-self: center;
+  align-items: center;
+}
