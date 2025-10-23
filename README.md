@@ -45,7 +45,7 @@ This repository collects short, focused machine-coding tasks intended for:
 ## 📦 Project structure (typical)
 
 ```
-machine-coding/
+challenges/
 ├─ auto-complete/        # example project
 │  ├─ src/
 │  ├─ index.html
