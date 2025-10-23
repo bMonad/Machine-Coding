@@ -76,7 +76,7 @@ Currency-Converter/
 
 1. **Clone the repository:**
    ```sh
-   git clone <your-repo-url>
+   git clone https://github.com/bMonad/UIQuests/tree/main/challenges/Currency-Converter
    cd Currency-Converter
    ```
 2. **Install dependencies:**
