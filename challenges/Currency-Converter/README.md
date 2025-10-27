@@ -2,7 +2,7 @@
 
 A simple and modern currency converter web application built with React and Vite. This project allows users to convert between different currencies using real-time exchange rates fetched from an open API.
 
-``` Demo: https://currency-convertor-one-kappa.vercel.app/ ```
+[Demo url](https://currency-convertor-one-kappa.vercel.app/) 
 
 ## Features
 
